@@ -1,2 +1,3 @@
 # SarithaDoc
 SarithaDoc
+example
